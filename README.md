@@ -10,6 +10,5 @@ This is the list of components by use at the moment:
   - Buzzer Sonoro
   - Submerged Pump 220 l/h
   - Jumpers and Plugs electricals
-
-### Relay Schematic
-### Buzzer Schematic
+  -  Esp8266 NodeMCU
+  
